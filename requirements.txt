@@ -1,0 +1,22 @@
+# Core LangChain packages
+langchain==0.2.14
+langchain-core==0.2.38
+langchain-community==0.2.11
+
+# Local vector database (older Chroma to avoid compilation issues)
+chromadb==0.4.24
+hnswlib==0.8.0
+
+# Embeddings
+sentence-transformers==2.7.0
+transformers==4.44.2
+torch==2.3.1
+numpy==1.26.4
+pandas==2.2.2
+
+# Ollama (local LLM)
+ollama==0.1.9
+
+# Optional dev utils
+tqdm==4.66.4
+typing-extensions==4.12.2
