@@ -18,5 +18,4 @@ The system is **fully local**, **free**, and requires **no API keys**.
 
 ---
 
-## Project Structure
 
